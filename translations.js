@@ -1,7 +1,7 @@
 // ROLAB × ALAN — translations for KZ / RU / EN
 const TRANSLATIONS = {
   kz: {
-    siteTitle: "ROLAB — ҮЙІРМЕЛЕР КЕСТЕСІ",
+    siteTitle: "Alan — ҮЙІРМЕЛЕР КЕСТЕСІ",
     heroLead: "Үйірмеңізді таңдап, күнін белгілеңіз — сол күнгі оқушылар тізімі бірден шығады.",
     home: "Басты бет",
     back: "Артқа",
@@ -116,7 +116,7 @@ const TRANSLATIONS = {
     time: "Уақыты"
   },
   ru: {
-    siteTitle: "ROLAB — РАСПИСАНИЕ КРУЖКОВ",
+    siteTitle: "Alan — РАСПИСАНИЕ КРУЖКОВ",
     heroLead: "Выберите кружок и день — список учеников на этот день появится сразу.",
     home: "Главная",
     back: "Назад",
@@ -231,7 +231,7 @@ const TRANSLATIONS = {
     time: "Время"
   },
   en: {
-    siteTitle: "ROLAB — CLUB SCHEDULE",
+    siteTitle: "Alan — CLUB SCHEDULE",
     heroLead: "Pick a club and a day — the student list for that day shows up right away.",
     home: "Home",
     back: "Back",
