@@ -3,7 +3,7 @@
 const ROLAB_DATA = {
   clubs: {
     lego24: {
-      time: "14:00–15:00",
+      time: "14:00–14:50",
       monday: [
       { cls: "4С", name: "Марат Жаннами" },
       { cls: "4С", name: "Раматулла Жангирби" },
@@ -114,7 +114,7 @@ const ROLAB_DATA = {
     ]
     },
     robotics58: {
-      time: "15:00–16:00",
+      time: "15:00–15:50",
       monday: [
       { cls: "7В", name: "Айымбет Айсултан" },
       { cls: "7В", name: "Битемір Мұстафа" },
@@ -205,7 +205,7 @@ const ROLAB_DATA = {
     ]
     },
     lego01: {
-      time: "16:00–17:00",
+      time: "16:00–16:50",
       monday: [
       { cls: "0А", name: "Ешенқұл Нұрали" },
       { cls: "0А", name: "Еркін Амирхан" },
@@ -309,7 +309,7 @@ const ROLAB_DATA = {
     ]
     },
     togyz24: {
-      time: "14:00–15:00",
+      time: "14:00–14:50",
       monday: [
       { cls: "2А", name: "Сейтхан жадыра" },
       { cls: "2А", name: "Ермекқызы Інжу" },
@@ -336,7 +336,7 @@ const ROLAB_DATA = {
       thursday: []
     },
     togyz01: {
-      time: "16:00–17:00",
+      time: "16:00–16:50",
       monday: [
       { cls: "0А", name: "Сағынтай Нұрмұхаммед" },
       { cls: "0А", name: "Баққара Аяла" },
@@ -369,7 +369,7 @@ const ROLAB_DATA = {
       thursday: []
     },
     asyq24: {
-      time: "14:00–15:00",
+      time: "14:00–14:50",
       monday: [
       { cls: "2А", name: "Алдияр Илияс" },
       { cls: "2А", name: "Алмас Али" },
@@ -422,7 +422,7 @@ const ROLAB_DATA = {
       thursday: []
     },
     asyq01: {
-      time: "16:00–17:00",
+      time: "16:00–16:50",
       monday: [
       { cls: "0А", name: "Назарбек Дінмұхаммед" },
       { cls: "0А", name: "Төреш Аймұхамет" },
@@ -469,7 +469,7 @@ const ROLAB_DATA = {
       thursday: []
     },
     chess58: {
-      time: "15:00–16:00",
+      time: "15:00–15:50",
       monday: [
       { cls: "5В", name: "Абдіразақ Айқын" },
       { cls: "5В", name: "Иляев Алихан" },
@@ -552,7 +552,7 @@ const ROLAB_DATA = {
     ]
     },
     chess24: {
-      time: "14:00–15:00",
+      time: "14:00–14:50",
       monday: [
       { cls: "2В", name: "Баққара Хансұлтан" },
       { cls: "2В", name: "Тоқмырза Муслим" },
@@ -637,7 +637,7 @@ const ROLAB_DATA = {
     ]
     },
     chess01: {
-      time: "16:00–17:00",
+      time: "16:00–16:50",
       monday: [
       { cls: "1 А", name: "Қали Ақназар" },
       { cls: "1 А", name: "Омар Хан" },
@@ -1198,7 +1198,7 @@ const ROLAB_DATA = {
     ]
     },
     karate58: {
-      time: "15:00–16:00",
+      time: "15:00–15:50",
       monday: [],
       tuesday: [
       { cls: "5 В", name: "Илаев Алихан" },
@@ -1239,7 +1239,7 @@ const ROLAB_DATA = {
     ]
     },
     horeo56: {
-      time: "15:00–16:00",
+      time: "15:00–15:50",
       monday: [
       { cls: "5E", name: "Қанат Томирис" },
       { cls: "5E", name: "Құлымбет Шұғыла" },
@@ -1292,7 +1292,7 @@ const ROLAB_DATA = {
       thursday: []
     },
     horeo78: {
-      time: "15:00–16:00",
+      time: "15:00–15:50",
       monday: [],
       tuesday: [],
       wednesday: [
@@ -1592,7 +1592,7 @@ const ROLAB_DATA = {
     ]
     },
     kolenner34: {
-      time: "14:00–15:00",
+      time: "14:00–14:50",
       monday: [
       { cls: "3А", name: "Данабек Гулсім" },
       { cls: "3A", name: "Мұратқанқыз Мария" },
@@ -1639,7 +1639,7 @@ const ROLAB_DATA = {
     ]
     },
     kolenner58: {
-      time: "15:00–16:00",
+      time: "15:00–15:50",
       monday: [
       { cls: "5 Е", name: "Балқыбек Ханшайы" },
       { cls: "5 Е", name: "Юолдаш Раяна" },
@@ -1672,7 +1672,7 @@ const ROLAB_DATA = {
       thursday: []
     },
     ceramics0: {
-      time: "16:00–17:00",
+      time: "16:00–16:50",
       monday: [
       { cls: "0В", name: "Алдияр Муслим" },
       { cls: "0А", name: "Әлібек София" },
@@ -1723,7 +1723,7 @@ const ROLAB_DATA = {
     ]
     },
     ceramics24: {
-      time: "14:00–15:00",
+      time: "14:00–14:50",
       monday: [
       { cls: "2Е", name: "Нұрлан Адия" },
       { cls: "2Е", name: "Аян Аят" },
@@ -1766,7 +1766,7 @@ const ROLAB_DATA = {
     ]
     },
     ceramics58: {
-      time: "15:00–16:00",
+      time: "15:00–15:50",
       monday: [
       { cls: "7А", name: "Абылайхан Адель" },
       { cls: "7А", name: "Бакыт Айлу" },
